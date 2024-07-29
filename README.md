@@ -14,7 +14,7 @@ Welcome to **NotesHub**, a powerful and comprehensive note-taking application. T
 
 NotesHub allows users to efficiently create and manage notes. Users can register, log in, and organize their notes with titles, descriptions, links, and tags. The application also includes a search bar and tag filtering for easy retrieval.
 
-![NotesHub Screenshot](https://via.placeholder.com/800x400)
+![NotesHub Screenshot](https://github.com/user-attachments/assets/027bcb61-6481-4888-a898-e3e0eacf754e)
 
 ## Features
 
