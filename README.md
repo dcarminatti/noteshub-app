@@ -25,7 +25,7 @@ NotesHub allows users to efficiently create and manage notes. Users can register
 
 ## Deployment
 
-🚀 To see the online demo [click here](https://main--noteshub-dc.netlify.app/).
+🚀 To see the online demo [click here](https://noteshub-spa.vercel.app/).
 
 ## Technologies Used
 
